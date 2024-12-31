@@ -64,7 +64,7 @@ Instala las dependencias: npm install
 
 Ejecuta el servidor: npm start
 
-El servidor se ejecutará en http://localhost:3000.
+El servidor se ejecutará en http://localhost:xxxx.
 
 Uso de la API
 Ejemplo de uso con curl:
