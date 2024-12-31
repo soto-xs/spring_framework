@@ -72,7 +72,7 @@ Crear un tópico:
 curl -X POST http://localhost:3000/topicos -H "Content-Type: application/json" -d '{"nombre": "Nuevo Tópico", "descripcion": "Descripción del nuevo tópico"}'
 
 Listar todos los tópicos:
-curl -X GET http://localhost:3000/topicos
+curl -X GET http://localhost:xxxx/topicos
 
 Actualizar un tópico:
 
