@@ -1,0 +1,10 @@
+Post
+URL: https://jsonplaceholder.typicode.com/posts
+
+{
+	"IdUsuario": "1",
+	"mensaje": "Error al ejecutar una requisición",
+	"nombreCurso": "HTTP en la web",
+	"título": "Error validación HTTP",
+	"id": 101
+}
