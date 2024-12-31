@@ -84,7 +84,7 @@ curl -X DELETE http://localhost:xxxx/topicos/101
 Licencia
 Este proyecto está bajo la Licencia MIT - consulta el archivo LICENSE para más detalles.
 
-Copyright
+
 ## Copyright  
 Copyright © 2024 Jansie Carolina García Soto. Todos los derechos reservados.
 
